@@ -9,16 +9,6 @@
  */
 
 import React from "react";
-
-/**
- * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
- */
 import image from "../images/design-desk.jpeg";
 
 const imageAltText = "desktop with books and laptop";
@@ -31,29 +21,48 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Stack Overflow Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a clone of old version of Stack overflow. Tech Stack - MongoDB, Express.js, React.js, Node.js",
+    url: "https://rohan-stackoverflow-clone.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "KJ AMS Dashboard",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Collaboration to create an Attendance Management System Dashboard using React.",
+    url: "https://github.com/Mys7erio/KJC-AMS-Dashboard",
+  },
+  {
+    title: "KJ AMS Mobile Application",
+    description:
+      "This scans qr of the students from their ID card and update on the database, used on special event when manual attendance is difficult.",
+    url: "https://github.com/mr0weird0guy/KJC-AMS-app",
+  },
+  {
+    title: "Project Management System",
+    description:
+      "This helps in managing the workflow, contributors and tasks assigned to contributors. It is a 2nd year college project using VB.NET.",
+    url: "https://github.com/mr0weird0guy/Project-Manager",
+  },
+  {
+    title: "MIA Plubming Solutions Web Project",
+    description:
+      "As my internship task under Zaveri Ltd. I designed and completed the website with HTML, CSS, PHP and JS.",
+    url: "https://github.com/mr0weird0guy/MIAPlumbingSolutions",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/mr0weird0guy/MIAPlumbingSolutions",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "News and Articles website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This website calls Times of New York and Google Maps API, to return articles and news based on the location of the neighbourhood provided.",
+    url: "https://github.com/mr0weird0guy/articles-and-links",
   },
+
 ];
 
 const Portfolio = () => {
