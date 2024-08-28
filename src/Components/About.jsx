@@ -24,18 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Final year BCA student studying at Kristu Jayanti College. I enjoy working on new ideas and helping others learn.";
+  "I'm a BCA graduate from Kristu Jayanti College, Bengaluru. I enjoy working on new ideas and helping others grow with me.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "Software Developer"
   "MERN Stack Developer",
   "Android App Developer",
   "Data Science",
   "Discord Bot",
-  "UX Designer",
 ];
 
 /**
@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. Desier to learn is my super power.";
+  "I am passionate about solving problems in new creative ways to drive innovation. Always learning is my super power.";
 
 const About = () => {
   return (
