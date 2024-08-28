@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Rohan Agarwal",
-  title: "GDSC Lead & Web Developer",
-  email: "rohandiwan1824@gmail.com",
+  title: "Software Engineer",
+  email: "rohanagarwal24.02@gmail.com",
   gitHub: "mr0weird0guy",
   instagram: "mr._weird_guy",
   linkedIn: "rohan-developer",
