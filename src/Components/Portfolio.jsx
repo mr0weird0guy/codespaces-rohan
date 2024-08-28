@@ -21,6 +21,12 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
+    title: "Component Management System",
+    description:
+      "This is the mobile application for component management specifically designed for college requirement, using Kotlin and XML",
+    url: "https://github.com/mr0weird0guy/CMS-App",
+  },
+  {
     title: "Stack Overflow Clone",
     description:
       "This is a clone of old version of Stack overflow. Tech Stack - MongoDB, Express.js, React.js, Node.js",
